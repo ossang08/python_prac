@@ -7,3 +7,5 @@ st_grade=float(input('what is your grade?'))
 message=f'Hello, {st_id} {st_name}! Your major is {st_major}. Your grade is {st_grade}!'
 #출력
 print(message)
+print('''this line is 
+for practicing github''')
