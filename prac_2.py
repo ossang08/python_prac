@@ -7,6 +7,7 @@ p_again=''
 while p_again != 'quit':
     st_name=input('What is your name?')
     message=f'Hi! {st_name}, '
+    print(message)
     st_score=float(input('put your score here>>'))
     
     if st_score >= 4.5:
