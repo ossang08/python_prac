@@ -10,3 +10,6 @@ print(message)
 print('''this line is 
 for practicing github''')
 print('practicing git pull')
+#연습용 출력문장
+p_message='practicing line for git pull'
+print(p_message)
