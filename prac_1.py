@@ -9,3 +9,4 @@ message=f'Hello, {st_id} {st_name}! Your major is {st_major}. Your grade is {st_
 print(message)
 print('''this line is 
 for practicing github''')
+print('practicing git pull')
